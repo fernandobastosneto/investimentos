@@ -13,3 +13,5 @@ Remotes:
 Depends: 
     R (>= 2.10)
 RoxygenNote: 7.1.1
+URL: https://github.com/fernandobastosneto/investimentos
+BugReports: https://github.com/fernandobastosneto/investimentos/issues
