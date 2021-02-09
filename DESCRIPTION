@@ -1,0 +1,15 @@
+Package: investimentos
+Type: Package
+Title: investimentos
+Version: 0.1.0
+Author: Fernando Bastos
+Maintainer: Fernando Bastos <fernando.bastos.neto@gmail.com>
+Description: Dados de investimentos do Banco Central e UNCTAD.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+Remotes: 
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.1
