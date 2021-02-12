@@ -8,7 +8,6 @@ Description: Dados de investimentos do Banco Central e UNCTAD.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Imports: 
 Remotes: 
 Depends: 
     R (>= 2.10)
